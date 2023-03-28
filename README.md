@@ -22,8 +22,8 @@ End the program and view the output image windows
 
 ## Program:
 ```
-# Developed By: Y SHAVEDHA
-# Register Number:212221230095
+# Developed By: M Parshwanath
+# Register Number:212221230073
 ```
 ```
 # READ AND DISPLAY THE IMAGE
